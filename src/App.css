@@ -1,3 +1,17 @@
-.hi {
-  color: red;
+
+/* work card */
+
+.card{
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #fff;
+  border: 1px solid #666;
+}
+.card-content{
+  display: flex;
+}
+.frutit{
+  padding: 20px;
+  border-radius: 10px;
+  
 }
